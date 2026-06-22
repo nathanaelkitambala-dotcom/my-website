@@ -164,3 +164,9 @@ body.dark-mode .form-control {
   height: 150px;
   object-fit: cover;
 }
+
+/* ===== PRODUCT DETAIL COVER ===== */
+.book-cover-large {
+  height: 300px;
+  object-fit: cover;
+}
