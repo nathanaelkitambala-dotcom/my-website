@@ -158,3 +158,9 @@ body.dark-mode .form-control {
   border-color: #444;
   color: #e0e0e0;
 }
+
+/* ===== BOOK COVERS ===== */
+.book-cover {
+  height: 150px;
+  object-fit: cover;
+}
