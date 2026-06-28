@@ -193,3 +193,19 @@ body.dark-mode .form-control {
 #backToTop:hover {
   background-color: #e0a800;
 }
+
+/* ===== CATEGORY CARDS ===== */
+.category-card {
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+.category-card:hover {
+  border-color: #ffc107;
+  transform: translateY(-5px);
+}
+
+.category-card h5 {
+  font-weight: 600;
+}
